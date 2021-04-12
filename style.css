@@ -1,0 +1,10 @@
+/*Balises*/
+
+div{
+	padding: 10px;
+}
+
+label{
+	display: inline-block;
+	min-width: 100px;
+}
